@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning JavaScript
 
 GIGI-DASH online:
-https://gigi-codeace.github.io/GIGI-DASH/menu.html
+https://gigi-codeace.github.io/GIGI-DASH/GDmenu
