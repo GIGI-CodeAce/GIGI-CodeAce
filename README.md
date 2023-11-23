@@ -4,3 +4,5 @@
 
 GIGI-DASH online:
 https://gigi-codeace.github.io/GIGI-DASH/GDmenu
+YC&PG online:
+https://gigi-codeace.github.io/YC-PG/CGmenu
