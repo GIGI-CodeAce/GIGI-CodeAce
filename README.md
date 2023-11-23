@@ -5,5 +5,5 @@
 GIGI-DASH online:
 https://gigi-codeace.github.io/GIGI-DASH/GDmenu
 
-YC&PG online:
+YP&CG online:
 https://gigi-codeace.github.io/YC-PG/CGmenu
