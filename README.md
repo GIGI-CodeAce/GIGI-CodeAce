@@ -2,8 +2,8 @@
 - 👀 I’m interested into coding
 - 🌱 I’m currently learning JavaScript
 
-GIGI-DASH online:
-https://gigi-codeace.github.io/GIGI-DASH/GDmenu
+DEATH BALL online:
+https://gigi-codeace.github.io/DEATH-BALL/DBmenu
 
 YP&CG online:
 https://gigi-codeace.github.io/YC-PG/CGmenu
