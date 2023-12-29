@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript
 
 DEATH BALL online:
-https://gigi-codeace.github.io/DEATH-BALL/DBmenu
+https://gigi-codeace.github.io/DeathBall/DBmenu
 
 YP&CG online:
 https://gigi-codeace.github.io/YC-PG/CGmenu
