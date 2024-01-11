@@ -2,11 +2,9 @@
 - 👀 I’m interested into coding
 - 🌱 I’m currently learning JavaScript
 
-DEATH BALL online:
-https://gigi-codeace.github.io/DeathBall/DBmenu
+https://gigi-codeace.github.io/mainWeb/page
 
-YP&CG online:
-https://gigi-codeace.github.io/YC-PG/CGmenu
+^ Main website ^
 
 
 <h3 align="left">Languages and Tools:</h3>
