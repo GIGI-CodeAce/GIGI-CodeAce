@@ -2,9 +2,9 @@
 - 👀 I’m interested into coding
 - 🌱 I’m currently learning React
 
-https://gigi-codeace.github.io/mainWeb/page
+[https://gigi-codeace.github.io/mainWeb/page](https://gigi-codeace.github.io/GIGIs-portfolio/)
 
-^ Main website ^
+^ Main website ^ (NEW!)
 
 
 <h3 align="left">Languages and Tools:</h3>
