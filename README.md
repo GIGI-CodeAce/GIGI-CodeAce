@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GIGI-CodeAce
 - 👀 I’m interested into coding
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning tailwind and typescript
 
 [https://gigi-codeace.github.io/mainWeb/page](https://gigi-codeace.github.io/GIGIs-portfolio/)
 
