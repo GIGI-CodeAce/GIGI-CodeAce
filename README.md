@@ -2,7 +2,7 @@
 - 👀 I’m interested into coding
 - 🌱 I’m currently learning Node.js
 
-[https://gigi-codeace.github.io/mainWeb/page](https://gigi-codeace.github.io/GIGIs-portfolio/)
+https://www.gigicodeace.com
 
 ^ Main website ^ (NEW!)
 
