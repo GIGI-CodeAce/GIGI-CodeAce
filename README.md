@@ -6,12 +6,12 @@ https://www.gigicodeace.com
 
 ^ Main website ^ (NEW!)
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gigi-codeace&show_icons=true&theme=dark&bg_color=0d0c0c&locale=en&layout=compact" alt="gigi-codeace" />
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3>Languages and Tools:</h3>
+<p>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
   </a>
