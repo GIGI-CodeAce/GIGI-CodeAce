@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GIGI-CodeAce
 - 👀 I’m interested into coding
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Typescript
 
 https://www.gigicodeace.com
 
