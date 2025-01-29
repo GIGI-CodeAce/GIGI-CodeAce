@@ -6,9 +6,7 @@ https://www.gigicodeace.com
 
 ^ Main website ^ (NEW!)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GIGI-CodeAce&show_icons=true&theme=dark&bg_color=0d0c0c&locale=en&layout=compact" alt="GIGI-CodeAce" />
-</p>
+
 
 <h3>Languages and Tools:</h3>
 <p>
