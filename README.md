@@ -6,9 +6,7 @@ https://www.gigicodeace.com
 
 ^ Main website ^ (NEW!)
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GIGI-CodeAce&show_icons=true&theme=dark&bg_color=0d0c0c&locale=en&layout=compact" alt="GIGI-CodeAce" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gigi-codeace&show_icons=true&theme=dark&bg_color=0d0c0c&locale=en&layout=compact" alt="gigi-codeace" /></p>
 
 <h3>Languages and Tools:</h3>
 <p>
@@ -26,6 +24,9 @@ https://www.gigicodeace.com
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
