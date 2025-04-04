@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GIGI-CodeAce
 - 👀 I’m interested on web development
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning Node and express.js
 
 ↓ Portfolio website ↓
 
