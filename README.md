@@ -2,9 +2,16 @@
 - 👀 I’m interested on web development
 - 🌱 I’m currently learning Node and express.js
 
-↓ Portfolio website ↓
+### ↓ Portfolio website ↓
 
 https://www.gigicodeace.com
+
+### Featured Projects
+
+🔹 [E-commerce App - GIGIbuy](https://gigibuy.com)  
+
+🔹 [Cards Randomizer Game - Memes RNG](https://gigi-codeace.github.io/Memes-RNG/)
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gigi-codeace&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=121111&locale=en&layout=compact" alt="gigi-codeace" /></p>
 <h3>Languages and Tools:</h3>
