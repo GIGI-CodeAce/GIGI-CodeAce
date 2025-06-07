@@ -10,7 +10,7 @@ https://www.gigicodeace.com
 
 🔹 🛍️[GIGIbuy - E-commerce App](https://gigibuy.com)  
 
-🔹 🎲[Memes RNG - Cards Randomizer Game](https://gigi-codeace.github.io/Memes-RNG/)
+🔹 🎲[Bloggle - News & stories sharing](https://bloggleapp.onrender.com)
 
 ### Tech Stack
 
