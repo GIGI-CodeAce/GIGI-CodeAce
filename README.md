@@ -8,9 +8,10 @@ https://www.gigicodeace.com
 
 ### Featured Projects
 
+🔹 📰[Bloggle - News & stories sharing (Newest!)](https://bloggleapp.onrender.com) 
+
 🔹 🛍️[GIGIbuy - E-commerce App](https://gigibuy.com)  
 
-🔹 📰[Bloggle - News & stories sharing](https://bloggleapp.onrender.com)
 
 ### Tech Stack
 
