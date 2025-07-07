@@ -41,7 +41,7 @@ https://www.gigicodeace.com
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/GIGIsOtherStuff/mainWebMedia/main/AppImages/Languages/Colored/nextjs-white-icon.png" alt="nextjs" width="40" height="40"/> 
   </a> 
    <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/GIGIsOtherStuff/mainWebMedia/main/AppImages/Languages/Colored/vue.png" alt="vuejs" width="40" height="40"/>
