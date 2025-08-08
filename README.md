@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robert also known as GIGI
 - 👀 I’m interested on web development
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently learning C++
 
 ### ↓ Portfolio website ↓
 
