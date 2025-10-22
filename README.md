@@ -10,7 +10,7 @@ https://gigicodeace.com/
 
 🔹 📰[Bloggle - News & stories sharing (Newest!)](https://bloggleapp.onrender.com) 
 
-🔹 🛍️[GIGIbuy - E-commerce App](https://gigibuy.vercel,app)  
+🔹 🛍️[GIGIbuy - E-commerce App](https://gigibuy.vercel.app)  
 
 
 ### Tech Stack
