@@ -4,7 +4,7 @@
 
 ### ↓ Portfolio website ↓
 
-https://gigicodeace.com/
+https://gigicodeace.com
 
 ### Featured Projects
 
